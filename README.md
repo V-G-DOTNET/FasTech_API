@@ -13,6 +13,9 @@ Body of Post- {
     "Role":"Admin"
 }
 
+How to run project -
+Open project solution with Microsoft Visual studio and Press 'ctrl + F5' and than open postman to post url with body.
+Database file will open with Microsoft SQL server 2018
 
 
 Created Project with asp.net core webAPI using MVC and n-Tier architecture.
