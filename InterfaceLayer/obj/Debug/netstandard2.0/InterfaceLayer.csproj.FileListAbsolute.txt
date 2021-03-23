@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\InterfaceLayer\bin\Debug\netstandard2.0\InterfaceLayer.deps.json
+C:\Users\user\source\repos\InterfaceLayer\bin\Debug\netstandard2.0\InterfaceLayer.dll
+C:\Users\user\source\repos\InterfaceLayer\bin\Debug\netstandard2.0\InterfaceLayer.pdb
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.dll
+C:\Users\user\source\repos\InterfaceLayer\obj\Debug\netstandard2.0\InterfaceLayer.pdb
